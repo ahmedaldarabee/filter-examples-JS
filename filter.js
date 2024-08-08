@@ -1,4 +1,5 @@
-   // (Used with Tests) will return just true element
+// Higher order function
+// (Used with Tests) will return just true element
 
    function filterExampleOne(){
     let arr = [11,31,"ahmed",88,"amjad","osama"];
